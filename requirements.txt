@@ -1,6 +1,6 @@
 pandas
 pyarrow
-openpixl
+openpyxl
 requests
 python-dotenv
 entsoe-py
@@ -17,6 +17,6 @@ holidays
 numpy-financial
 pyyaml
 plotly
-stramlit
+streamlit
 pytest
 ipykernel
