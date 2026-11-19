@@ -37,6 +37,7 @@ def controlla(df):
     ...
 
 
+
 def main():
     df = leggi()
     df = pulisci(df)
