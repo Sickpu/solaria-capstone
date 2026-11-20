@@ -20,3 +20,5 @@ plotly
 streamlit
 pytest
 ipykernel
+entsoe-py
+python-dotenv
